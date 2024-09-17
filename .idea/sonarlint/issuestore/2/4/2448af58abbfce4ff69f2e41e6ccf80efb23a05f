@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìâëøÿÿÿÿ
+L
+java:S1854I"6Remove this useless assignment to local variable "dh".(í§±ì
+P	java:S125"<This block of commented-out lines of code should be removed.(î¿Ëm
+V	java:S125"<This block of commented-out lines of code should be removed.(¸¢èúıÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(¤‹¸”
+V	java:S1257"<This block of commented-out lines of code should be removed.(ëëñİıÿÿÿÿ
+M
+java:S1135+"2Complete the task associated to this TODO comment.(°Ç»áşÿÿÿÿ
+H
+java:S1135/"2Complete the task associated to this TODO comment.(ÓÎğú
+=
+java:S1481I"'Remove this unused "dh" local variable.(í§±ì
+@	java:S106N"+Replace this use of System.out by a logger.(Ç³Í³
+V	java:S125L"<This block of commented-out lines of code should be removed.(”Á½şÿÿÿÿ

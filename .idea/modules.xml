@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP_QA/OOP_QA.iml" filepath="$PROJECT_DIR$/OOP_QA/OOP_QA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/QA_AutoTester.iml" filepath="$PROJECT_DIR$/.idea/QA_AutoTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem1_Principles of OOP/Sem1_Principles of OOP.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem1_Principles of OOP/Sem1_Principles of OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem2_Abstraction and interfaces/Sem2_Abstraction and interfaces.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem2_Abstraction and interfaces/Sem2_Abstraction and interfaces.iml" />
+    </modules>
+  </component>
+</project>
