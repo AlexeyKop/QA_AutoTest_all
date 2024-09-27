@@ -1,0 +1,14 @@
+
+p
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ
+i
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+m
+java:S1104"RMake salary a static final constant or non-public and provide accessors if needed.(¼¦İûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş¹°Ù
+t
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(û¯Ú¶şÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÊÃïğşÿÿÿÿ

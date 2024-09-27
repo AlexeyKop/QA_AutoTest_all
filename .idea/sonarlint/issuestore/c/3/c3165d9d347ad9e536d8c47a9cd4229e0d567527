@@ -1,0 +1,29 @@
+
+‡
+java:S1192r"KDefine a constant instead of duplicating this literal "category: " 3 times.(§®ÝÍJ$62f171d8-994b-42e5-a708-c3025a9e4de5
+|	java:S125"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿJ$079ed4d0-3f4e-49c7-b817-c1693af3b5ca
+|	java:S125"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿJ$4b39902a-ce58-4779-8a8f-19f01dd536d9
+|	java:S125!"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿJ$218e2368-8a1e-4980-871c-f64f4017187a
+|	java:S125'"<This block of commented-out lines of code should be removed.(óôÓ³ùÿÿÿÿJ$66257142-1e35-40a8-ad0b-3d9650a0d4c9
+w	java:S125)"<This block of commented-out lines of code should be removed.( ¥ŒJ$67052358-2b61-4eb3-8188-e3fdc720fe84
+|	java:S125+"<This block of commented-out lines of code should be removed.(ì„ÏçþÿÿÿÿJ$bbe5dd7b-2f5b-4992-8afb-8d7b13155cb1
+w	java:S125-"<This block of commented-out lines of code should be removed.(ÞÆÉðJ$a5c83179-69d4-4b7d-a0e4-0a4c2de391a1
+|	java:S125/"<This block of commented-out lines of code should be removed.(ØÖÞýÿÿÿÿJ$75560f95-9fd0-43f6-b119-62b979fdd2bc
+v	java:S1251"<This block of commented-out lines of code should be removed.(ƒêJ$76b72779-17d2-4e1a-bc44-34b08286cf95
+|	java:S1253"<This block of commented-out lines of code should be removed.(¥“£ªýÿÿÿÿJ$cf896410-76c8-4a12-97ee-224491284b0b
+w	java:S1255"<This block of commented-out lines of code should be removed.(®Ùš·J$4f2a2122-e36c-4481-a507-d932ec41f9bd
+w	java:S1257"<This block of commented-out lines of code should be removed.(±Ã™…J$3fecb210-cb70-4a8a-836e-684b969c3c84
+k	java:S106A"+Replace this use of System.out by a logger.(ÚÇ£îþÿÿÿÿJ$532cfeb7-3839-4d36-996c-45e213363665
+c
+java:S4274O"(Replace this assert with a proper check.(ùýŠ/J$9119375f-f796-4e83-b4ec-e49a7a25927e
+|	java:S125K"<This block of commented-out lines of code should be removed.(Ùƒ§àüÿÿÿÿJ$96ea7d51-2181-46a2-a4d9-459a941fa5f1
+k	java:S106^"+Replace this use of System.out by a logger.(Å¡±”ûÿÿÿÿJ$d71b464c-e3a7-4245-ad80-d2b5c05b1a2b
+f	java:S106r"+Replace this use of System.out by a logger.(§®ÝÍJ$ead68681-d00a-44d0-9d92-e898eadaaf93
+k	java:S106t"+Replace this use of System.out by a logger.(ÇÂ­ýÿÿÿÿJ$698456b3-fba4-43c3-95d5-d712f31d198f
+k	java:S106v"+Replace this use of System.out by a logger.(Æ¾ÅƒûÿÿÿÿJ$e842316f-5a25-4ce2-884d-3b1926f12458
+v	java:S125"<This block of commented-out lines of code should be removed.(ä”ÞqJ$189e1372-0be4-49a8-87e9-eccd14162e2f
+x	java:S125•"<This block of commented-out lines of code should be removed.(±Ã™…J$d25801be-b336-47f7-9641-dc7358bf4d11
+n
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿJ$3e76f647-1276-4ed8-a301-1ff37ff13bf3
+m
+java:S5960‚"+Remove this assertion from production code.(í³õÊÿÿÿÿÿJ$8af9bc4f-272b-4f99-b625-5ddc0260310d

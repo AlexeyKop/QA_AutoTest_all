@@ -1,0 +1,16 @@
+
+–
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿJ$c6d7e274-6877-4b30-b7dc-b9ffcfb1d369
+
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿üJ$ded66cc3-bf24-4fa2-bdbb-ac7d61a20e16
+‹
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿J$71230c83-f1f0-40a3-bbc2-0f3adf979d64
+“
+java:S1104	"RMake salary a static final constant or non-public and provide accessors if needed.(¼¦İûÿÿÿÿJ$0e4d7adf-8252-4f29-b97b-de7e07c38630
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙÅıÿÿÿÿJ$0bd17b6a-bbb0-4a8e-b3ec-fe7ee9e40d71
+‰
+java:S2272""NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ì­åRJ$b7f3de60-6719-4e40-9b35-39a27e614bf5
+w	java:S125%"<This block of commented-out lines of code should be removed.(‹¾Ø¯J$438ad247-20c8-4063-9fc7-695921246952
+w	java:S125("<This block of commented-out lines of code should be removed.(‹©½J$0c2fb5fd-ff65-40f0-af50-1274c00b8d1e
+|	java:S125+"<This block of commented-out lines of code should be removed.(–Š úÿÿÿÿJ$9e62cef0-784f-4602-aab5-ce5f0aac2f6f
+w	java:S125."<This block of commented-out lines of code should be removed.(¿˜ûJ$237000e2-2b78-49b3-b4b2-0870794187e6

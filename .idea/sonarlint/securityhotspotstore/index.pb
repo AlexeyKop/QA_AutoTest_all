@@ -19,70 +19,10 @@ X
 (OOP_QA/src/Lesson_07/Ex007/Magician.java,1\8\18e80cc7149e67390b796e1c77c3823a0b971c50
 V
 &OOP_QA/src/Lesson_07/Ex007/Priest.java,f\0\f0e5d309740161db0d1f11b823268739ffb259e4
-•
-eOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/issuestore/b/d/bd6cb26a5a0cb9797cdad11d48fcfb4f8fe06874,2\7\275d8e25ef7a9f0097cd8df64a180e849b8852bf
-Ÿ
-oOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/b/d/bd6cb26a5a0cb9797cdad11d48fcfb4f8fe06874,f\0\f0447174320c9db06d1f4648cab1ef2655a61848
-Z
-*OOP_QA/.idea/sonarlint/issuestore/index.pb,2\d\2d7c7a93b6e6d1edd997e08ce8461eb08205b248
-Ÿ
-oOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/b/0/b08350a99fa49519dc7837ccf9b886bf1901ff82,2\e\2e78c84c03a750482ae7307c87ecb6fb79c4e2b0
-d
-4OOP_QA/.idea/sonarlint/securityhotspotstore/index.pb,4\2\42e632a7b4cedaea8e41cc58eaeb01395eeb1ec1
-Ÿ
-oOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/e/a/eac8bd403d0b6d8bc26cec3e92363b9cfe0c44a0,1\8\188ce91861f4a7d9bbb43cf31437bcf743e78be5
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/8/9/89d398d40375befd98ca23f81cd9aa2d2f2685f0,c\c\ccac575e34dfdf168613b8e60d31d5675303c1ba
-Ÿ
-oOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/3/2/327c0d519caccd581681472698d9ed4dadcd5694,0\5\058ab9156dbbcf77aea7479c5e6b19ae84121109
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/a/3/a3e19d35ece7c5453ee3e878d4e539f1ec8a261f,4\e\4ef9fd2c15c7aa373ae4fc13f515d583026365bc
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/2/8/28d2e229d9de31291cf210990fb1984ea6c3c72c,e\0\e0be9b90c3f77423f70eb8b759ffff222cf313e8
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/2/6/26334119245327ea9ad8846f6b0bdaf15eb37a79,3\e\3e38fe6d91931d1c6214789f87fafeef5b953ffe
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/e/1/e19d34b4005c1aef120e3c77840c5622ab65780a,4\8\48b18e1cc99665f1472012c01568aea465c9cfc9
 X
 (OOP_QA/Sem1_Principles of OOP/.gitignore,6\a\6abe623114572287be0912c9dcdcc717a0bc80af
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/d/2/d2a85b03584dbc58c03559644bfdc064ad2cc437,2\b\2bb817cc772f42d5a49c0b7e9e9ea490f5d850ff
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/b/c/bc1e5e46953602d082f0af2837814d3f2a8aebe6,6\5\6554ec30ba406449c58b3a03b93e28bca6a6f7d3
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/b/f/bf8847b38196a31454c8a1269cd2a4586fa01e49,a\3\a3693295b200a6f0d87e6f0ec4a622a04a7f2e63
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/6/f/6f3305527cc0c02d4964a7f18736037d2a03430d,b\e\be9de0bc29f9c6d459ca98ec1f7b3ac3a04b80fd
 A
 OOP_QA/.gitignore,a\e\ae90017839c135343557fb336a0ce0db2d18fd9f
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/b/9/b983ec745991e5f4c27761cf147919b5ba04f6f6,0\e\0e772eb864aa7a86d15219e1f6752262190f70f8
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/6/8/6820d2847e48bba96eac27c19b5663f906e74b86,2\2\225662ca912a3f1f24a43b0d9edd1fdcb3bb572d
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/a/5/a5bc6a6105379b711b0518ead1d27fe5cb579df3,a\a\aac1c99950661ad31348f1ef75b2d61c9486d28a
-{
-KOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/index.pb,a\4\a471ba3125f7dd92749273944e7ee2233b8f6218
-q
-AOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/issuestore/index.pb,4\a\4aed992b8cf982a8b5837fefb524bf700ea3cba0
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/3/0/306eb6658ad0b17345b86c65c4d7ceac4792b812,6\1\613f54109d14fbfc759f08acc06b5efdf12bc6c5
-Ÿ
-oOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,f\f\ff1320d335ada8a9fa9e20e2de4971fd983cf02e
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/0/2/02c933b96634baacaddccbd181f02775a94c0525,a\e\aec682a2f16ff22b6ece6995c134fa4efe4f5efd
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/2/7/27b1ae69985bc2cd3c50a2227f637c7b445a7b28,6\8\68018ed9d7e1b6506e3099cef6e4a2357aa1c0c8
-Ÿ
-oOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/c/d/cd521d48425db2bd14113d9ade3657cc42bfc0c4,6\6\662f43d0f963f1c9eb20dbf5c462a36762bc8792
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/4/c/4caa66482ebf1d3e7fec9c223cf68277283abab9,5\6\566dadfb89033146fef184934e620aeedd6aabb1
-Ÿ
-oOOP_QA/Sem1_Principles of OOP/.idea/sonarlint/securityhotspotstore/0/4/04501da3fc1b38872d65c27fff51c0c4cf602f78,f\1\f127ed4d9244fa37b5e070b280dd480ec065f4b6
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/f/2/f264d82980c136a2ca2c8aff4ade54a8c841a142,9\7\972bb428548604e140fea82a524a958eecb77e28
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/3/d/3d2e9834c69c30ac9c6043bd02277a9969e7df84,4\6\466ce902a97085237d24a9056b5e9146e2ab755c
 [
 +OOP_QA/src/Lesson_07/Ex001/PointMethod.java,9\c\9cf18335c872e4846662d59b5cdf9f3dc221b178
 W
@@ -91,14 +31,10 @@ W
 'OOP_QA/src/Lesson_07/Ex003/Program.java,2\4\249813b486d73268496af8242e40583141a883d0
 W
 'OOP_QA/src/Lesson_07/Ex004/Program.java,2\5\2557fb80db59e77c3fca50ed6df0f07adbd24f3b
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/6/c/6c3ebe75b02eea275b06a0cb564f38bb007efc6c,6\3\63485aa3685e02ca28803d3c79af90b18c4e3e53
 W
 'OOP_QA/src/Lesson_07/Ex002/Program.java,4\b\4b173d3fdb96dacda15afd456d8cbed6e326cb42
 W
 'OOP_QA/src/Lesson_07/Ex003/Point2D.java,e\2\e29b4ebd25d396eff0bc3cf75c4cbef8543fb209
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/1/8/18c64b7087d8b849602b4302a7a694e18d29958f,e\a\ea593928b17e19b557a40069f6ad704f9bfb0eb6
 V
 &OOP_QA/src/Lesson_07/Ex004/Robot3.java,e\7\e73a228cae913f980dedfa970d3602b5abbb0912
 X
@@ -113,8 +49,6 @@ X
 (OOP_QA/src/Lesson_07/Ex006/Magician.java,c\7\c703a6e41ab7ab5f64533891bb2e6a9c3c1ad007
 V
 &OOP_QA/src/Lesson_07/Ex005/Priest.java,c\6\c69b3c9bc88eb70fc8378f58e0bb8f7dde7c8cf3
-ˆ
-XOOP_QA/.idea/sonarlint/securityhotspotstore/b/f/bf21d7ca1332446a7143ab4b6906d8e9b1847f27,f\c\fc09d1045a9eccb10387a613dd94f3f724b6e293
 W
 'OOP_QA/src/Lesson_07/Ex005/Program.java,2\7\27971bdcfce7c0757269d6da7cd712cbe9816d58
 U
@@ -237,3 +171,83 @@ o
 ?OOP_QA/Sem2_Abstraction and interfaces/src/MarketBehaviour.java,4\1\419626d16e0ca208f4b1cb484f3f576a450d6586
 f
 6OOP_QA/Sem2_Abstraction and interfaces/src/Market.java,0\0\0075f3d9ba7830aa2aa60ae6460ecfe133e11b39
+W
+'OOP_QA/src/Lesson_09/Ex001/Program.java,6\2\6221909ad22311bc6396329bf58b07791cac90af
+V
+&OOP_QA/src/Lesson_09/Ex001/Worker.java,c\5\c57d0989f8c9ee9afe5ee7b7fc24f657458ca64d
+W
+'OOP_QA/src/Lesson_09/Ex002/Program.java,3\f\3f3dbadcc6af7816b3b02190114d7f0d0172f142
+V
+&OOP_QA/src/Lesson_09/Ex002/Worker.java,5\f\5f56c6f9a214f662dace4af3f7ca0c08bb7a6467
+c
+3OOP_QA/src/Lesson_09/Ex002/ExBeverage/Beverage.java,8\4\84863b1baedffbf8f5df2bb047bbe698edfd779e
+`
+0OOP_QA/src/Lesson_09/Ex002/ExBeverage/Water.java,c\4\c4a764f74335de2e227ebf0b8f1eb0962e38071c
+_
+/OOP_QA/src/Lesson_09/Ex002/ExBeverage/Milk.java,e\b\eb1f2dce9b883c6b328d689d29c98850c5f864b2
+e
+5OOP_QA/src/Lesson_09/Ex002/ExBeverage/Ingredient.java,1\8\18f11641c8e88a6301907219b94c4df911cb7866
+a
+1OOP_QA/src/Lesson_09/Ex002/ExBeverage/Coffee.java,8\3\83a372b55e6e7fdc8b622abaec6db75cc47b9241
+d
+4OOP_QA/src/Lesson_09/Ex002/ExBeverage/â•¨Ð¢eans.java,2\b\2bbdd069fe092de6b9bc21595fd8f5cf221e0873
+]
+-OOP_QA/src/Lesson_09/Ex005/AgeComporator.java,6\2\6279b772bed5b3de9dd3aea526055cc11f7a67b0
+V
+&OOP_QA/src/Lesson_09/Ex005/Worker.java,3\a\3a880442fb90d0700451cfb26c4f8dc0c62e5df5
+W
+'OOP_QA/src/Lesson_09/Ex005/Program.java,5\e\5ee7a6167a611fa036f21dd970b59941c5e214aa
+]
+-OOP_QA/Sem3_Iterator_Comparator/src/Main.java,4\9\4919f1154790f73c7b6ed2cbc97c82c563d7e680
+`
+0OOP_QA/Sem3_Iterator_Comparator/src/Student.java,1\4\14b9b5e850626c2e80b3567dd44219fcffca07ba
+e
+5OOP_QA/Sem3_Iterator_Comparator/src/StudentGroup.java,3\3\334e9a6287c1d893b471206fad9390f30111bcc0
+m
+=OOP_QA/Sem3_Iterator_Comparator/src/StudentGroupIterator.java,4\b\4b1196f8c14ff6e654b15d195c00925deb1c558d
+l
+<OOP_QA/Sem3_Iterator_Comparator/src/StudentGroupService.java,d\a\dad3244996c45845c67416312a7c38f4833f4644
+c
+3OOP_QA/Sem3_Iterator_Comparator/src/Controller.java,e\f\ef5d72570a862e42d6b1451c51a12c282b7f64de
+j
+:OOP_QA/Sem3_Iterator_Comparator/src/StudentComparator.java,0\2\02084c26e12471bf00d35afa95c23b7a4585ad84
+y
+IOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/Main.java,6\8\685e421510063147114f1de00d4be5661c707dbf
+
+OOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/StudyGroup.java,f\8\f841118b75e5bc3aa42f615c287a72ce256844c1
+{
+KOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/Stream.java,5\6\56aaa5947f06f33a9d70eb464714001b9284d8dc
+…
+UOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/StreamComparator.java,c\8\c8b140278eb8715b4598fcffce29ffc34efaa0f3
+‚
+ROOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/StreamService.java,4\6\46bfce6da16c0c9abd0d547a0b924b2e905fd903
+
+OOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/Controller.java,c\2\c216a2be489d2d0f2fc7a2a9448e41360b41f13f
+z
+JUNIT_testing/Sem1_unit-tests/src/seminars/first/Calculator/Calculator.java,3\b\3bff5c51432e106b79b9259db5d7705afab3361f
+t
+DUNIT_testing/Sem1_unit-tests/src/seminars/first/Calculator/Main.java,1\e\1e7ba3f9a714a3d64fecb484301e35438114f5bd
+~
+NUNIT_testing/Sem1_unit-tests/src/seminars/first/Calculator/CalculatorTest.java,4\4\4497d9ae9cbe21b5a5be3673435559b7ed80226c
+i
+9UNIT_testing/Sem1_unit-tests/src/seminars/first/Main.java,6\c\6cab83313762baefe558c81db7aec4dcf2435db9
+e
+5UNIT_testing/Sem2_test frameworks/src/Calculator.java,3\d\3d9069d4d77d6bfc2e59f28b8c1b5cf154486fda
+l
+<UNIT_testing/Sem2_test frameworks/src/CalculatorTestDep.java,b\1\b19a0a2f5eea1c850d5f7bac2b4d3dbb87ae8e14
+j
+:UNIT_testing/Sem2_test frameworks/Test/CalculatorTest.java,5\0\50aa7c4fb2e0e3fd9d99143aef1e60da83734eea
+u
+EUNIT_testing/Sem2_test frameworks/src/seminars_second/first/Main.java,c\3\c3165d9d347ad9e536d8c47a9cd4229e0d567527
+‹
+[UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Cart.java,8\6\869e70fb3e51ad7302573af30e60347f1f69c78f
+‰
+YUNIT_testing/Sem2_test frameworks/Test/seminars/second/simple_shopping_cart/ShopTest.java,2\f\2fb13404c5a55bce95dcd035245d30056e836237
+˜
+hUNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/TextUserInterface.java,f\c\fc4dd4bf3ee67422d014bed0e67ea2b1d89ed720
+‹
+[UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Shop.java,4\5\45231c3bbdabadda59c1b6e31f341008a3c9833c
+Ž
+^UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Product.java,9\3\93e4f713b80cf4b946c04d66760c935af09106e6
+‹
+[UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Main.java,7\5\7515d54c6c3340831b9bbaeabf47c7a256ec4e11
