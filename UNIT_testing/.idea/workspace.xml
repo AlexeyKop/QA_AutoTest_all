@@ -5,8 +5,175 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2daea46b-2fa9-485f-bccf-ac6546db885a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP_QA" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_QA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/assertj_core_3_23_1__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/5/6/56fdf67c240934e8112743a5f5b3b333c1c7f2db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/2/72bfeaba5e2bf0616d45569ae8eff25d0986adac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/c/fce9135d4876275f5be67fdbe35d004817be5b1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/5/6/56fdf67c240934e8112743a5f5b3b333c1c7f2db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/7/2/72bfeaba5e2bf0616d45569ae8eff25d0986adac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/f/c/fce9135d4876275f5be67fdbe35d004817be5b1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem1_Intro/Sem1_Intro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem1_Intro/unit-tests-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/1/e/1e7ba3f9a714a3d64fecb484301e35438114f5bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/f/2fb13404c5a55bce95dcd035245d30056e836237" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/3/b/3bff5c51432e106b79b9259db5d7705afab3361f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/3/d/3d9069d4d77d6bfc2e59f28b8c1b5cf154486fda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/4/4497d9ae9cbe21b5a5be3673435559b7ed80226c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/5/45231c3bbdabadda59c1b6e31f341008a3c9833c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/5/0/50aa7c4fb2e0e3fd9d99143aef1e60da83734eea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/8/685e421510063147114f1de00d4be5661c707dbf" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/8/685e421510063147114f1de00d4be5661c707dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/c/6cab83313762baefe558c81db7aec4dcf2435db9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/5/7515d54c6c3340831b9bbaeabf47c7a256ec4e11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/6/869e70fb3e51ad7302573af30e60347f1f69c78f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/3/93e4f713b80cf4b946c04d66760c935af09106e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/b/1/b19a0a2f5eea1c850d5f7bac2b4d3dbb87ae8e14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/3/c3165d9d347ad9e536d8c47a9cd4229e0d567527" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/c/fc4dd4bf3ee67422d014bed0e67ea2b1d89ed720" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/1/e/1e7ba3f9a714a3d64fecb484301e35438114f5bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/2/f/2fb13404c5a55bce95dcd035245d30056e836237" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/3/b/3bff5c51432e106b79b9259db5d7705afab3361f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/3/d/3d9069d4d77d6bfc2e59f28b8c1b5cf154486fda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/4/4/4497d9ae9cbe21b5a5be3673435559b7ed80226c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/4/5/45231c3bbdabadda59c1b6e31f341008a3c9833c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/5/0/50aa7c4fb2e0e3fd9d99143aef1e60da83734eea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/6/c/6cab83313762baefe558c81db7aec4dcf2435db9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/7/5/7515d54c6c3340831b9bbaeabf47c7a256ec4e11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/8/6/869e70fb3e51ad7302573af30e60347f1f69c78f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/9/3/93e4f713b80cf4b946c04d66760c935af09106e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/b/1/b19a0a2f5eea1c850d5f7bac2b4d3dbb87ae8e14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/c/3/c3165d9d347ad9e536d8c47a9cd4229e0d567527" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/f/c/fc4dd4bf3ee67422d014bed0e67ea2b1d89ed720" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/.idea/libraries/selenium_java_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/libs/assertj-core-3.24.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/src/seminars/first/Calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/src/seminars/first/Calculator/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/src/seminars/first/Calculator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/src/seminars/first/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/src/seminars/first/Shop/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/src/seminars/first/Shop/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/src/seminars/first/Shop/ShopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1_unit-tests/unit-tests-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/.idea/unit-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/Test/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/Test/seminars/second/hw/VehicleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/Test/seminars/second/simple_shopping_cart/ShopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/libs/assertj-core-3.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/libs/junit-jupiter-api-5.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/libs/junit-jupiter-params-5.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/libs/junit-platform-commons-1.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/CalculatorTestDep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/first/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/first/hw/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/first/hw/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/first/hw/ShopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/hw/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/hw/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/hw/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/hw/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/life_cycle_JUnit5/TestLC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/TextUserInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIT_testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UNIT_testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/libraries/assertj_core_3_23_1__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/libraries/assertj_core_3_23_1__3_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/0/c/0c819355f7f850aaf0addc978d11a2f102c0ffce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/3/4/347140437753055bc021ce6e8d6be2dc8b08d46d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/3/9/398c8d2cee06792ef9def0d1f01396d8c47218b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/4/f/4ffec1f34da0a0322cf3ad2f4c1019dbe16ad6f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/5/9/59ecd74698c9c9a7abe166325fbe2dfcc66fa9dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/6/a/6ad59acae36346a797aba9fb3fecb2ac397e9532" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/9/1/913bf5c8d514eb449ab8750979b87c643433fd60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/9/a/9af7790b385710181e0ca7ab606a2fa1a4970ec0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/a/e/ae80f7029a54bf7f4bc68e3b2a76831a4bea3fc1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/c/e/ce7cee5fb060a6ef9991eb8031559bd95c9dc285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/d/a/dab59698f5876be09d3b30280c41763297fdc785" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/f/f/ff9be2828a37edd190ddf1a6e96a802e40945888" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/0/c/0c819355f7f850aaf0addc978d11a2f102c0ffce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/3/4/347140437753055bc021ce6e8d6be2dc8b08d46d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/3/9/398c8d2cee06792ef9def0d1f01396d8c47218b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/4/f/4ffec1f34da0a0322cf3ad2f4c1019dbe16ad6f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/5/9/59ecd74698c9c9a7abe166325fbe2dfcc66fa9dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/6/a/6ad59acae36346a797aba9fb3fecb2ac397e9532" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/9/1/913bf5c8d514eb449ab8750979b87c643433fd60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/9/a/9af7790b385710181e0ca7ab606a2fa1a4970ec0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/a/e/ae80f7029a54bf7f4bc68e3b2a76831a4bea3fc1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/c/e/ce7cee5fb060a6ef9991eb8031559bd95c9dc285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/d/a/dab59698f5876be09d3b30280c41763297fdc785" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/f/f/ff9be2828a37edd190ddf1a6e96a802e40945888" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/Unit_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/.idea/unit-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/Test/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/Test/seminars/second/simple_shopping_cart/ShopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/libs/assertj-core-3.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/libs/junit-jupiter-api-5.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/libs/junit-jupiter-params-5.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/libs/junit-platform-commons-1.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/CalculatorTestDep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/first/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/first/hw/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/first/hw/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/first/hw/ShopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/second/life_cycle_JUnit5/TestLC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/second/simple_shopping_cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/second/simple_shopping_cart/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/second/simple_shopping_cart/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/second/simple_shopping_cart/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Код семинара)/src/seminars/second/simple_shopping_cart/TextUserInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/unit-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/Test/seminars/second/hw/VehicleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/libs/assertj-core-3.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/libs/junit-jupiter-api-5.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/libs/junit-jupiter-params-5.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/libs/junit-platform-commons-1.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/src/seminars/second/hw/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/src/seminars/second/hw/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/src/seminars/second/hw/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_test/unit-tests-2 (Условие ДЗ)/src/seminars/second/hw/Vehicle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +188,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
@@ -41,7 +208,7 @@
     "Application.Unnamed.executor": "Run",
     "Application.unit_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Learning_5.0_D disk/GeekBrains/QA_AutoTester",
     "project.structure.last.edited": "Project",

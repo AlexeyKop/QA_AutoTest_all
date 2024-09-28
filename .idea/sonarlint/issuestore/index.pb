@@ -223,31 +223,19 @@ UOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/StreamComparato
 ROOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/StreamService.java,4\6\46bfce6da16c0c9abd0d547a0b924b2e905fd903
 
 OOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/Controller.java,c\2\c216a2be489d2d0f2fc7a2a9448e41360b41f13f
-z
-JUNIT_testing/Sem1_unit-tests/src/seminars/first/Calculator/Calculator.java,3\b\3bff5c51432e106b79b9259db5d7705afab3361f
-t
-DUNIT_testing/Sem1_unit-tests/src/seminars/first/Calculator/Main.java,1\e\1e7ba3f9a714a3d64fecb484301e35438114f5bd
-~
-NUNIT_testing/Sem1_unit-tests/src/seminars/first/Calculator/CalculatorTest.java,4\4\4497d9ae9cbe21b5a5be3673435559b7ed80226c
-i
-9UNIT_testing/Sem1_unit-tests/src/seminars/first/Main.java,6\c\6cab83313762baefe558c81db7aec4dcf2435db9
-e
-5UNIT_testing/Sem2_test frameworks/src/Calculator.java,3\d\3d9069d4d77d6bfc2e59f28b8c1b5cf154486fda
-l
-<UNIT_testing/Sem2_test frameworks/src/CalculatorTestDep.java,b\1\b19a0a2f5eea1c850d5f7bac2b4d3dbb87ae8e14
-j
-:UNIT_testing/Sem2_test frameworks/Test/CalculatorTest.java,5\0\50aa7c4fb2e0e3fd9d99143aef1e60da83734eea
+‹
+[OOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator.iml,5\6\56fdf67c240934e8112743a5f5b3b333c1c7f2db
+
+OUnit_Testing/Sem1_Intro/src/seminars_First/first/Calculator/CalculatorTest.java,4\a\4aafa9f481a27d67133494bdf973a1a3969ee4ff
 u
-EUNIT_testing/Sem2_test frameworks/src/seminars_second/first/Main.java,c\3\c3165d9d347ad9e536d8c47a9cd4229e0d567527
-‹
-[UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Cart.java,8\6\869e70fb3e51ad7302573af30e60347f1f69c78f
-‰
-YUNIT_testing/Sem2_test frameworks/Test/seminars/second/simple_shopping_cart/ShopTest.java,2\f\2fb13404c5a55bce95dcd035245d30056e836237
-˜
-hUNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/TextUserInterface.java,f\c\fc4dd4bf3ee67422d014bed0e67ea2b1d89ed720
-‹
-[UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Shop.java,4\5\45231c3bbdabadda59c1b6e31f341008a3c9833c
-Ž
-^UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Product.java,9\3\93e4f713b80cf4b946c04d66760c935af09106e6
-‹
-[UNIT_testing/Sem2_test frameworks/src/seminars_second/second/simple_shopping_cart/Main.java,7\5\7515d54c6c3340831b9bbaeabf47c7a256ec4e11
+EUnit_Testing/Sem1_Intro/src/seminars_First/first/Calculator/Main.java,b\b\bb4144efb07bbf04526974b3ad90582bbfc823fb
+{
+KUnit_Testing/Sem1_Intro/src/seminars_First/first/Calculator/Calculator.java,c\7\c7267c823a1808c4697a2cf8be318708cc525223
+y
+IUnit_Testing/Sem1_Intro/src/seminars/first/Calculator/CalculatorTest.java,b\a\baafe5431724025bd1fe25d17e9bfea315e312b8
+l
+<Unit_Testing/Sem1_Intro/src/seminars/first/Shop/Product.java,a\1\a17795b29c4b77d59661260e3ade5455f81a07c6
+m
+=Unit_Testing/Sem1_Intro/src/seminars/first/Shop/ShopTest.java,5\3\53000dca614beb8e21ece190f5660680bf3b28cf
+i
+9Unit_Testing/Sem1_Intro/src/seminars/first/Shop/Shop.java,8\5\8561714432a7c732971c24c08ec837dd941c7300

@@ -1,0 +1,6 @@
+
+e
+java:S1192"JDefine a constant instead of duplicating this literal "Product 2" 3 times.(Á¼ìÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ÃÑ·
+F
+java:S5960"+Remove this assertion from production code.(¼òáÄıÿÿÿÿ
