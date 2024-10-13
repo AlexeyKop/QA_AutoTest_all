@@ -1,0 +1,16 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‹²ïøÿÿÿÿJ$0e47235b-a938-455e-950b-a4e151c2f041
+…
+java:S1192"IDefine a constant instead of duplicating this literal "lastName" 3 times.(šº¸ÙJ$77967ce8-e3f8-49b7-ae31-2a3daa4db3b5
+†
+java:S1192"JDefine a constant instead of duplicating this literal "firstName" 3 times.(šº¸ÙJ$d999effb-47af-4fbb-9b79-27d9f42fb5e2
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ÅßøÿÿÿÿJ$edf3f06d-7a88-4a96-9d14-00c57d3f8fb4
+q
+java:S1854"5Remove this useless assignment to local variable "w".(šº¸ÙJ$d6feb250-a1ce-435e-bf2a-5e8dc505d57c
+b
+java:S1481"&Remove this unused "w" local variable.(šº¸ÙJ$8b3f0d9b-6bed-4ea8-9938-5f41034e4486
+f	java:S106"+Replace this use of System.out by a logger.(¶€§ˆJ$f41c0e3d-ee14-4b5d-b628-4f55cb3766f7
+f	java:S106"+Replace this use of System.out by a logger.(½ëŠîJ$42c7ed79-13db-4d00-b37e-3924b7c99f84
+w	java:S125!"<This block of commented-out lines of code should be removed.(Õ¥ôÿJ$3cee5119-a7f4-495a-a319-2c1dad7172c6
+|	java:S125%"<This block of commented-out lines of code should be removed.(”›äåûÿÿÿÿJ$20eda042-031d-4b7b-a510-b02d65ba6222

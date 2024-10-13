@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ëº¡ıÿÿÿÿJ$342767ea-ef9b-4f47-b44e-f6fd30da54e9
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©à¶”J$503bed83-2d2c-4b61-8493-bd1e46703cca
+k	java:S106
+"+Replace this use of System.out by a logger.(ŞúÊƒıÿÿÿÿJ$a47700e5-5e9a-413e-ade0-5f610ce22fbf
+k	java:S106"+Replace this use of System.out by a logger.(¦Éñ¼şÿÿÿÿJ$7a7ae1c9-7ade-4119-bdc1-10c31ecb730c
+k	java:S106"+Replace this use of System.out by a logger.(ëõıÿÿÿÿJ$7bce590d-c8a1-477a-95a7-e1c01f519a59
+z
+java:S5993!"9Change the visibility of this constructor to "protected".(Õ…ÓŒúÿÿÿÿJ$bc5ea5d4-5f86-4e0c-a293-7dd9cea00eb4
+_
+java:S1659c"#Declare "team2" on a separate line.(…İ—áJ$800b778a-f793-4c17-8fd6-588f564f1251
+k	java:S106m"+Replace this use of System.out by a logger.(Š‚êƒÿÿÿÿÿJ$4d6bbd64-effd-4f33-a10d-cee3130dea90
+{
+java:S1118q":Add a private constructor to hide the implicit public one.(Åç¤ŒúÿÿÿÿJ$87406f14-caee-4e9c-b463-d637fe71bb33
+‰	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒè¸áJ$b7dcfbd6-8596-4335-af07-bd6555e5c051

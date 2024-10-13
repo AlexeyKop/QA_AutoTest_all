@@ -1,12 +1,0 @@
-
-e
-java:S1192"ODefine a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ°: " 3 times.(¤ŞË§
-Ş
-java:S1598"ÇThis file "Main.java" should be located in "seminars\first\Calculator" directory, not in "D:\Learning_5.0_D disk\GeekBrains\QA_AutoTester\Unit_Testing\Sem1_Intro\src\seminars_First\first\Calculator".(ÌìÙÜ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌìÙÜ
-E	java:S106	"+Replace this use of System.out by a logger.(ªÌ»úüÿÿÿÿ
-?	java:S106"+Replace this use of System.out by a logger.(“çı!
-E	java:S106"+Replace this use of System.out by a logger.(òÎºÇıÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(¤ŞË§
-@	java:S106"+Replace this use of System.out by a logger.(¤ŞË§
-@	java:S106%"+Replace this use of System.out by a logger.(¤ŞË§

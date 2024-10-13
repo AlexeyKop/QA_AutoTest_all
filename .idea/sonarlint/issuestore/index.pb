@@ -225,12 +225,6 @@ ROOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/StreamService.j
 OOOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/src/Controller.java,c\2\c216a2be489d2d0f2fc7a2a9448e41360b41f13f
 ‹
 [OOP_QA/Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator/DZ_Sem3_Iterator_Comparator.iml,5\6\56fdf67c240934e8112743a5f5b3b333c1c7f2db
-
-OUnit_Testing/Sem1_Intro/src/seminars_First/first/Calculator/CalculatorTest.java,4\a\4aafa9f481a27d67133494bdf973a1a3969ee4ff
-u
-EUnit_Testing/Sem1_Intro/src/seminars_First/first/Calculator/Main.java,b\b\bb4144efb07bbf04526974b3ad90582bbfc823fb
-{
-KUnit_Testing/Sem1_Intro/src/seminars_First/first/Calculator/Calculator.java,c\7\c7267c823a1808c4697a2cf8be318708cc525223
 y
 IUnit_Testing/Sem1_Intro/src/seminars/first/Calculator/CalculatorTest.java,b\a\baafe5431724025bd1fe25d17e9bfea315e312b8
 l
@@ -239,3 +233,115 @@ m
 =Unit_Testing/Sem1_Intro/src/seminars/first/Shop/ShopTest.java,5\3\53000dca614beb8e21ece190f5660680bf3b28cf
 i
 9Unit_Testing/Sem1_Intro/src/seminars/first/Shop/Shop.java,8\5\8561714432a7c732971c24c08ec837dd941c7300
+W
+'OOP_QA/src/Lesson_10/Ex001/Program.java,d\c\dcb274e9afc87b66fc9f794287d571d531ec0170
+V
+&OOP_QA/src/Lesson_10/Ex002/Worker.java,9\c\9cce31b476c723696f17c1c63f7bb632050f2d1e
+W
+'OOP_QA/src/Lesson_10/Ex002/Program.java,f\e\fe53f4ac6574368197207ba481729f4d52591d78
+c
+3OOP_QA/src/Lesson_10/Ex002/ParameterizedWorker.java,c\3\c379b0a7352a4d59c108745fb8e099365d632c0e
+b
+2OOP_QA/src/Lesson_10/Ex002/MultiParameterized.java,f\2\f25e33ac5d44e82725929779727d4fecc5c461f8
+W
+'OOP_QA/src/Lesson_10/Ex003/Program.java,4\3\43e17b1010ccf6ac9864e739c59b376c227a9b5b
+W
+'OOP_QA/src/Lesson_10/Ex003/Methods.java,9\9\990b10f3d8d85cfd27e078fa943064e4d0b3574c
+c
+3OOP_QA/src/Lesson_10/Ex003/ParameterizedWorker.java,4\f\4f7fab7c6d640c657fbd6916ae8bf2eda2f22f1f
+_
+/OOP_QA/src/Lesson_10/Ex004/V1/AudioContent.java,8\0\80ccab33131b9aaca61c2e3528bca7b346855a67
+Z
+*OOP_QA/src/Lesson_10/Ex004/V1/Content.java,e\5\e59f2e045d5e38ea2d14fe35d0c8d0bb089dd960
+]
+-OOP_QA/src/Lesson_10/Ex004/V1/Repository.java,0\3\035267c265605993047f9c12095d51919038987b
+Z
+*OOP_QA/src/Lesson_10/Ex004/V1/Program.java,a\c\ac3209758890aca24c65f9e186006f6fa8325124
+_
+/OOP_QA/src/Lesson_10/Ex004/V1/VideoContent.java,7\e\7ec3f2b71caa391d63d414b46b830ad475aff659
+_
+/OOP_QA/src/Lesson_10/Ex004/V2/AudioContent.java,a\9\a9e351e28f4e47f5308015632572e63df8b79379
+Z
+*OOP_QA/src/Lesson_10/Ex004/V2/Content.java,3\9\39e04402473d98d172ed2009534ab3e778e3075c
+]
+-OOP_QA/src/Lesson_10/Ex004/V2/Repository.java,2\1\211f094054c26a2a8b9825854458ca96faffa4d3
+Z
+*OOP_QA/src/Lesson_10/Ex004/V2/Program.java,a\2\a242153fce60a0402457a1cc40203995bece302d
+_
+/OOP_QA/src/Lesson_10/Ex004/V2/VideoContent.java,2\1\2190f275a666e4551e398b512b01dace32cd53b4
+_
+/OOP_QA/src/Lesson_10/Ex004/V3/AudioContent.java,b\7\b722e68f7a03faf9895fbc22890d6bcf070be7fa
+Z
+*OOP_QA/src/Lesson_10/Ex004/V3/Content.java,c\4\c409787b94e4fafbb397d63d04940e66456bce7b
+]
+-OOP_QA/src/Lesson_10/Ex004/V3/Repository.java,4\c\4c77d34b17226b3d16e9b6264799a0186c761444
+Z
+*OOP_QA/src/Lesson_10/Ex004/V3/Program.java,3\0\3073bd1c389f68515a538e331c44b18919c62e37
+_
+/OOP_QA/src/Lesson_10/Ex004/V3/VideoContent.java,3\9\398eb20aa7a8fd8852924b6bcf05eea4b19ae133
+_
+/OOP_QA/src/Lesson_10/Ex004/V4/AudioContent.java,8\7\877ca4fb3a9967c50149d3e18058ef3d1dd65b64
+Z
+*OOP_QA/src/Lesson_10/Ex004/V4/Content.java,5\b\5b021841f91f4c9066be59bb018cd3e25a6cd704
+]
+-OOP_QA/src/Lesson_10/Ex004/V4/Repository.java,9\8\987cd1467f6528093aa7d9051dfff1143efa9658
+Z
+*OOP_QA/src/Lesson_10/Ex004/V4/Program.java,a\8\a8108a8cf432fa3b8bec58a8f7145e900ac26f65
+_
+/OOP_QA/src/Lesson_10/Ex004/V4/VideoContent.java,9\2\92e981ba987e62065cf62f6fd2b2146eeea4375a
+Z
+*OOP_QA/src/Lesson_10/Ex006/Ex001_Game.java,6\e\6e8d23af455188d79be2c34780d3973a0603fe90
+Z
+*OOP_QA/src/Lesson_10/Ex007/Ex002_Game.java,4\f\4f66601a5f7bbb906fa89dc2b96e7018f1f1647e
+Z
+*OOP_QA/src/Lesson_10/Ex008/Ex003_Game.java,6\9\69b1cb83444bb552bd6e8168467dcd6d64dc5000
+V
+&OOP_QA/Sem4_OOP Generics/src/Main.java,a\0\a059a6ff2f0a72f8c819aef142c776db483d1973
+V
+&OOP_QA/Sem4_OOP Generics/src/User.java,3\f\3fe1778f12495fc4295dadc56a7100c517fb588b
+Y
+)OOP_QA/Sem4_OOP Generics/src/Student.java,4\c\4ca2cd97488bb3695b223086ec76d91dced7aad9
+`
+0OOP_QA/Sem4_OOP Generics/src/UserComparator.java,5\2\52c64ee422ead462f6e4d8a2b4fbc653aa5a2ec6
+e
+5OOP_QA/Sem4_OOP Generics/src/StudentGroupService.java,b\5\b5a688f95ee6b3b8228b3fae03ad5ece9bcbf5d0
+^
+.OOP_QA/Sem4_OOP Generics/src/StudentGroup.java,8\0\8088fcb9172b8f651588979a0cd43d34a9cce3fc
+f
+6OOP_QA/Sem4_OOP Generics/src/StudentGroupIterator.java,e\6\e6e4e52bfe9b26af98544792eb9c3081f5238ff5
+Z
+*OOP_QA/Sem4_OOP Generics/src/UserView.java,a\9\a94af19b21061a336c9477bc4447fcba09a422c5
+]
+-OOP_QA/Sem4_OOP Generics/src/StudentView.java,7\4\74eb6c2035d2767b25a09b0314daa037f5f6689e
+c
+3OOP_QA/Sem4_OOP Generics/src/StudentController.java,2\6\26409ff609b70637f7892bb37ac817de1046c8be
+`
+0OOP_QA/Sem4_OOP Generics/src/UserController.java,f\c\fc90460763e955e3a023c3d20801fc4e88afeb6c
+g
+7OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/Main.java,6\3\6300fa31419a8753f6ef87c373a785a38e505818
+j
+:OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/Student.java,0\0\001d8bf278777e222e78ece071fdbe8dd489ff21
+g
+7OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/User.java,5\3\53054fd9328b5fc04033cc29cd136f8503e53403
+v
+FOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentGroupService.java,0\9\09421b41c277596c51f10db94facfe967558486f
+t
+DOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentController.java,a\2\a2e9f9d4ed43d01474f880d5d6212cafa5f7b3dd
+n
+>OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentView.java,6\9\69b015aaa4771258ab95d35a5f0e0eda498c9736
+j
+:OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/Teacher.java,b\7\b71c184c2d0454efcbe1aee5666d9f0dc70c42a8
+q
+AOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/UserController.java,7\b\7b4e3c71c525cf2e8a8750ff6d510e58736faeac
+k
+;OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/UserView.java,f\5\f566b0defb8db22ebf10f8173cfae1486580c116
+w
+GOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentGroupIterator.java,3\6\36d1bcca05c2c9a6e337e37bf4436389b676fb95
+o
+?OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentGroup.java,9\4\940af21d3fa058ea3c97d2e9b8b02909137b1371
+q
+AOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/TeacherService.java,1\3\130a3dfcf7b38a602ef35f0eea6150f4286537e7
+t
+DOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/TeacherController.java,9\6\96fded903b485ed53fab6604730f0c69dfe4ed65
+n
+>OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/TeacherView.java,5\6\563a342419129de1f36bea54cbd09505d2372b8f

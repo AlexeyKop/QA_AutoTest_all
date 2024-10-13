@@ -1,0 +1,3 @@
+[submodule "QA_UNIT_Test_3"]
+	path = QA_UNIT_Test_3
+	url = https://github.com/AlexeyKop/QA_UNIT_Test_3.git

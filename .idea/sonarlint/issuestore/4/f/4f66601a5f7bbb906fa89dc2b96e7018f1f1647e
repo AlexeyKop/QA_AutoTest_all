@@ -1,0 +1,19 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬”ÛÿÿÿÿÿJ$a3ea3718-858a-4803-b65d-5b75671f332c
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠÅ×¹J$7ac7e6cd-939e-43a8-910f-e0dcfb002617
+f	java:S106
+"+Replace this use of System.out by a logger.(ÊŞãJ$06b04547-a44b-4be7-b13e-542270dca0aa
+k	java:S106"+Replace this use of System.out by a logger.(¦Éñ¼şÿÿÿÿJ$800470c9-eb92-48a4-8611-46ed3e7781a9
+k	java:S106"+Replace this use of System.out by a logger.(ëõıÿÿÿÿJ$be54b32c-8f2d-4331-b93e-cae89ff597e7
+|	java:S125"<This block of commented-out lines of code should be removed.(Â¶÷İıÿÿÿÿJ$33e2d0d4-8525-4a3b-9a8c-45d5d19201da
+f	java:S106"+Replace this use of System.out by a logger.(»Ëœ¹J$a72a33be-bf0d-46ad-8447-7aa8912730a6
+z
+java:S5993)"9Change the visibility of this constructor to "protected".(Õ…ÓŒúÿÿÿÿJ$6a3e3e69-c6ae-422c-afb3-8585bc4923de
+_
+java:S1659k"#Declare "team2" on a separate line.(Äò®óJ$1d83d119-1512-4d05-8157-844929441c93
+k	java:S106u"+Replace this use of System.out by a logger.(Š‚êƒÿÿÿÿÿJ$0e641fb6-3b3a-482c-8dc3-103dde8b4466
+{
+java:S1118y":Add a private constructor to hide the implicit public one.(Åç¤ŒúÿÿÿÿJ$8a6cba5f-b635-4df8-b4eb-715b7a809866
+ˆ	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÿõwJ$b76a4a26-015c-4746-92be-dd7a76c97b0e
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¶àëJ$d90cb5ad-44f8-4856-a24f-06bfe375712f
+Š	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¨ÊºJ$bfcfdf11-e28b-45e1-89b3-d23377fb06f0

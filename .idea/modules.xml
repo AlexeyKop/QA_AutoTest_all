@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem2_Abstraction and interfaces/Sem2_Abstraction and interfaces.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem2_Abstraction and interfaces/Sem2_Abstraction and interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit_Testing/Sem2_test frameworks/Sem2_test frameworks.iml" filepath="$PROJECT_DIR$/Unit_Testing/Sem2_test frameworks/Sem2_test frameworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem3_Iterator_Comparator/Sem3_Iterator_Comparator.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem3_Iterator_Comparator/Sem3_Iterator_Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/Sem4_DZ_Generics.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/Sem4_DZ_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem4_OOP Generics/Sem4_OOP Generics.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem4_OOP Generics/Sem4_OOP Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit_Testing/Unit_Testing.iml" filepath="$PROJECT_DIR$/Unit_Testing/Unit_Testing.iml" />
     </modules>
   </component>
