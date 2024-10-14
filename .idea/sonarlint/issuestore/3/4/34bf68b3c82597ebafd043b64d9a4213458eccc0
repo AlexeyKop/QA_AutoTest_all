@@ -1,0 +1,22 @@
+
+Œ
+java:S1104"PMake date a static final constant or non-public and provide accessors if needed.(ïŸÉ¯J$0e5079f6-2de1-4ae5-b68d-ebb43f5fc3eb
+–
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿJ$dd17cd5d-9cb3-4207-8e1b-306dad711248
+
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿üJ$4cc75e18-98e5-48db-812d-e3b906441dc2
+
+java:S1104	"SMake company a static final constant or non-public and provide accessors if needed.(Ñ¼òJ$6de72146-6d54-4364-839d-90d5148356ab
+
+java:S1104
+"QMake phone a static final constant or non-public and provide accessors if needed.(«ç”¤J$d8292a8d-c78f-43c4-9c1c-eb167650119d
+˜
+java:S1104"WMake description a static final constant or non-public and provide accessors if needed.(¹ÿ†ğÿÿÿÿÿJ$8ac31b5e-83e1-40b8-8a1e-7effdd753888
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¼›J$e027947e-1877-476c-be45-fd904acb6784
+€
+java:S2259!"?A "NullPointerException" could be thrown; "t" is nullable here.(î¸¦ÉşÿÿÿÿJ$0cb5a470-cc17-4cc3-ad06-29ad659a51c7
+Œ
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑãJ$39cb2cbc-ef51-48a1-9c79-91478f054229
+|	java:S125"<This block of commented-out lines of code should be removed.(ŸšåõıÿÿÿÿJ$1c77df7b-0d40-414c-9699-07a7fb90c523
+[
+java:S2097"Add a type test to this method.(ÜÑãJ$b1d2a42e-0a14-4f89-ae46-30306fc3faf4

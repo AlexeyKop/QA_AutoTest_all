@@ -319,29 +319,127 @@ c
 0OOP_QA/Sem4_OOP Generics/src/UserController.java,f\c\fc90460763e955e3a023c3d20801fc4e88afeb6c
 g
 7OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/Main.java,6\3\6300fa31419a8753f6ef87c373a785a38e505818
-j
-:OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/Student.java,0\0\001d8bf278777e222e78ece071fdbe8dd489ff21
 g
 7OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/User.java,5\3\53054fd9328b5fc04033cc29cd136f8503e53403
-v
-FOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentGroupService.java,0\9\09421b41c277596c51f10db94facfe967558486f
-t
-DOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentController.java,a\2\a2e9f9d4ed43d01474f880d5d6212cafa5f7b3dd
-n
->OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentView.java,6\9\69b015aaa4771258ab95d35a5f0e0eda498c9736
 j
 :OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/Teacher.java,b\7\b71c184c2d0454efcbe1aee5666d9f0dc70c42a8
 q
 AOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/UserController.java,7\b\7b4e3c71c525cf2e8a8750ff6d510e58736faeac
 k
 ;OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/UserView.java,f\5\f566b0defb8db22ebf10f8173cfae1486580c116
-w
-GOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentGroupIterator.java,3\6\36d1bcca05c2c9a6e337e37bf4436389b676fb95
-o
-?OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/StudentGroup.java,9\4\940af21d3fa058ea3c97d2e9b8b02909137b1371
 q
 AOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/TeacherService.java,1\3\130a3dfcf7b38a602ef35f0eea6150f4286537e7
 t
 DOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/TeacherController.java,9\6\96fded903b485ed53fab6604730f0c69dfe4ed65
 n
 >OOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/TeacherView.java,5\6\563a342419129de1f36bea54cbd09505d2372b8f
+]
+-OOP_QA/src/Lesson_11/Ex001Calc/CalcModel.java,b\0\b02cbd0362987a6b36cacc150907b5bc0bd815db
+Y
+)OOP_QA/src/Lesson_11/Ex001Calc/Model.java,e\6\e6f918d8ac89d5f9dcecac747e18b8113443be46
+]
+-OOP_QA/src/Lesson_11/Ex001Calc/Presenter.java,4\1\41657ae43bbc63dc558d9d2eb752facdebee1af4
+`
+0OOP_QA/src/Lesson_11/Ex001Calc/PresenterOfT.java,3\e\3ed2efdc899857c3a8953641d6770d1be83441e1
+\
+,OOP_QA/src/Lesson_11/Ex001Calc/SumModel.java,4\d\4dea2cd2997b064de3846f87ed4560b22b50bb9b
+[
++OOP_QA/src/Lesson_11/Ex001Calc/Program.java,c\6\c6e072fdb78ce606a3ac3d9c837ac26e694e0dca
+X
+(OOP_QA/src/Lesson_11/Ex001Calc/View.java,7\9\79c2b2794df84fa446267764993ea227eb042fc3
+g
+7OOP_QA/src/Lesson_11/Ex002Phonebook/Client/Program.java,6\1\6138ebfe9f0799b562540c4714d55d68873149ea
+v
+FOOP_QA/src/Lesson_11/Ex002Phonebook/Core/Infrastructure/Phonebook.java,4\4\446343b2a23f6e6909fa558cfe0bfcf0ceaf5754
+l
+<OOP_QA/src/Lesson_11/Ex002Phonebook/Core/Models/Contact.java,3\4\34bf68b3c82597ebafd043b64d9a4213458eccc0
+g
+7OOP_QA/src/Lesson_11/Ex002Phonebook/Core/MVP/Model.java,b\b\bb1f3f003dc3af2b16089cc68e3003fd02fd3a20
+k
+;OOP_QA/src/Lesson_11/Ex002Phonebook/Core/MVP/Presenter.java,d\7\d79a9a652b9a29f6829c195a9d976e9315964e0c
+f
+6OOP_QA/src/Lesson_11/Ex002Phonebook/Core/MVP/View.java,d\b\db0e17486e5ea45ef0c95d4e93e99d6368b959e9
+_
+/OOP_QA/src/Lesson_11/Ex002Phonebook/Config.java,6\e\6e3d77d04d698adfa37c5609d83eddeb16687f3c
+_
+/OOP_QA/src/Lesson_11/Ex002Phonebook/UI/App.java,1\0\102354f68c14d135fedd2462bf39cb5ccdcf9a29
+g
+7OOP_QA/src/Lesson_11/Ex002Phonebook/UI/ConsoleView.java,3\8\38f68d675a6aef5cd1e0f167fa7add3ef1064117
+j
+:OOP_QA/src/Lesson_11/Ex002Phonebook/UI/NewConsoleView.java,f\b\fb55e1967bcd3fc05c853ebe6e524610083f13ae
+b
+2OOP_QA/src/Lesson_11/Ex003Math/Client/Program.java,6\a\6ab3ac6afcabefa4086d56c302e3107da380e115
+l
+<OOP_QA/src/Lesson_11/Ex003Math/Mathematics/Shapes/Shape.java,3\8\38c86e6c74ebd0131395a6269ddad6885b73dace
+p
+@OOP_QA/src/Lesson_11/Ex003Math/Mathematics/Shapes/Rectangle.java,7\c\7c96560d9013693489fb25e755ec530af2a36420
+m
+=OOP_QA/src/Lesson_11/Ex003Math/Mathematics/Shapes/Square.java,3\5\35932dbee4f12ec72c5c76e80ec6dd406f86bba9
+m
+=OOP_QA/src/Lesson_11/Ex003Math/Mathematics/Shapes/Circle.java,0\6\06b199a9d29a3febaad6e7c99c48af4a28f292ef
+�
+UOOP_QA/src/Lesson_11/Ex003Math/Mathematics/Exceptions/UnacceptableValueException.java,9\6\96c3e611aed1b42cff4a6d3aeba8b77ea1f4daf1
+
+OOOP_QA/src/Lesson_11/Ex003Math/Mathematics/Exceptions/MathematicsException.java,4\7\4787125f15fcc58788577b5fcca553fe98c9aa82
+o
+?OOP_QA/src/Lesson_11/Ex003Math/Mathematics/Shapes/Triangle.java,2\0\207549b7bec872674e46baf08ed750c5693ebc1c
+m
+=OOP_QA/src/Lesson_11/Ex003Math/Mathematics/Shapes/Canvas.java,0\c\0cb7709e797081f78e9ea7f9dca96c7daaa88b94
+w
+GOOP_QA/src/Lesson_11/Ex003Math/Mathematics/CalculateArea/Calculate.java,a\9\a965f2a467ce3d17e6af0d7dfc3e4367a5f4a64a
+{
+KOOP_QA/src/Lesson_11/Ex003Math/Mathematics/CalculateArea/CalculateArea.java,3\3\339832bf9ebd5996657db8d3d208e0545d3dbaca
+q
+AOOP_QA/src/Lesson_11/Ex003Math/Core/Infrastructure/Generator.java,c\6\c617f2dea382eb7f71b5163c6cc2077ef5ad9699
+e
+5OOP_QA/src/Lesson_11/Ex003Math/Core/Models/Model.java,b\3\b34fbaab81c7ceea774d82535ed57fd0645a110c
+c
+3OOP_QA/src/Lesson_11/Ex003Math/Core/Views/View.java,d\e\dea6c6b215840f3c3f9e1ea27b60067f2f1f0f78
+m
+=OOP_QA/src/Lesson_11/Ex003Math/Core/Presenters/Presenter.java,4\1\419c36639cb068f00c2937dd9fe3cc67aacc66ee
+f
+6OOP_QA/src/Lesson_11/Ex003Math/Client/ConsoleView.java,8\e\8e62d21ad193c1fcc1e87b8e55d36675090234f0
+^
+.OOP_QA/src/Lesson_11/Ex003Math/Client/App.java,2\4\24ddc2f9f842d036fa2a584aedc659808f7035a0
+d
+4OOP_QA/src/Lesson_09/Ex004/ExBeverage/╨Тeans.java,2\6\2662311cd6b94693e514bc1219be28a2506e59c5
+Y
+)OOP_QA/src/Lesson_09/Ex007/╨Тeans.java,f\2\f23cd1965f6444691558cd7a7156e72aaca81b5c
+M
+OOP_QA/Sem5_MVC/src/Main.java,1\2\12d5894071d2859e42c2e2353eb3acc8f1591083
+S
+#OOP_QA/Sem5_MVC/src/model/User.java,4\d\4d7aef942d615fb3cf52a102d875a3876b1878f2
+V
+&OOP_QA/Sem5_MVC/src/model/Student.java,0\2\027aa5ef1408051beec9805a7cd67139e16f8127
+V
+&OOP_QA/Sem5_MVC/src/model/Teacher.java,9\e\9e6e709a347787a168cea8d53bbbb641251cae20
+\
+,OOP_QA/Sem5_MVC/src/service/DataService.java,a\3\a3c064da067ed0cf8e88f45083ac9fb7663d2fc5
+S
+#OOP_QA/Sem5_MVC/src/model/Type.java,e\e\eeeb1af34e175e5cd6575d5ab15bb7d054a4c138
+Y
+)OOP_QA/Sem5_MVC/src/view/StudentView.java,4\5\45ad0ae4988fa68e53eed82fff631db7e9ca648a
+^
+.OOP_QA/Sem5_MVC/src/controller/Controller.java,4\6\46198e2df0c1ebcbd811335f58980a16d318a428
+e
+5OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/StudyGroup.java,b\5\b5a5327f0877f12369e625931501f4fd717e3bc2
+n
+>OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/service/StudyGroupService.java,5\1\51cfcaad2b6c0abd24a90d4d17d73bc8b0944664
+_
+/OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/controller.java,2\b\2b4c4b3f5d09faed66518b0226f541481f01c17c
+t
+DOOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/controller/StudyGroupController.java,d\5\d58a6728eb3e33bc41826ce941aeab328e28d185
+h
+8OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/view/StudyGroupView.java,6\b\6bd0512670de7c9354f634410d453badbd433c95
+Y
+)OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/Main.java,5\6\5669766b3054027a441c35613786596319affc32
+^
+.OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/main/Main.java,d\d\ddf9c98e715a49c6ce45c875f252ff96c8b3313c
+b
+2OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/Teacher.java,b\c\bc928d55016717e3f4cbdfa3f573e7e29dba5515
+b
+2OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/Student.java,e\6\e61a943a493626240a098b780309439372b7c702
+_
+/OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/Type.java,9\0\90839f6a0ac3bf3fa0055b6981baef32fdc3889c
+_
+/OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/User.java,7\0\707336c6e6859c8624bc5a183ffb144db6ff8331

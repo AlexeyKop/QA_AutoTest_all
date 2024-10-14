@@ -1,0 +1,7 @@
+
+ç
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(ÇŒÛÂJ$5a203374-8408-4913-b8c1-9457e5ca4637
+ï	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó‰§úJ$bd03565c-c37b-4baf-b4eb-a987b62582c0
+’
+java:S6548"òA Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(±ÖÈËJ$1713669f-aa7b-4685-95c0-69b3e4382cbb
+w	java:S125"<This block of commented-out lines of code should be removed.(€ìÅ§J$c09d01e3-3d93-4b98-bdd1-de468224cd93

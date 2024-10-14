@@ -1,0 +1,20 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ı¦ıJ$1516ea35-2230-474d-9ff3-3ad450c935d1
+f
+java:S3457"%String contains no format specifiers.(ºÊÄ¶ÿÿÿÿÿJ$c31de312-5927-48fb-8582-ec727f6062ae
+k	java:S106"+Replace this use of System.out by a logger.(ºÊÄ¶ÿÿÿÿÿJ$63f4cdbd-8167-4454-a705-b1a4e5be27af
+’
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¨ÇªÚúÿÿÿÿJ$9548fa26-61b2-46c0-8753-cad662c38c31
+k	java:S106"+Replace this use of System.out by a logger.(¨ÇªÚúÿÿÿÿJ$cca80ecd-d1ad-4096-827f-9a91dc6302fd
+f
+java:S3457"%String contains no format specifiers.(ä€‡€øÿÿÿÿJ$b03dd2cb-e12f-4ea9-afb4-3eb551f269c1
+k	java:S106"+Replace this use of System.out by a logger.(ä€‡€øÿÿÿÿJ$d6adb36a-5ff2-4232-92ed-72100e6b9a8d
+
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ùÎàÆJ$3f3753cb-238e-4be6-a3e9-28150f0cf626
+f	java:S106"+Replace this use of System.out by a logger.(ùÎàÆJ$7cd8737a-4938-4159-b57c-0a6f2aaf376a
+a
+java:S3457$"%String contains no format specifiers.(¥Û€¹J$f7278aad-4bbe-4262-a4d2-791650b99537
+f	java:S106$"+Replace this use of System.out by a logger.(¥Û€¹J$29926cda-f8bc-4bba-b9bd-45d164e751a4
+
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(Ê˜¢ØJ$7e42e4a9-1d6d-4949-8264-e8ae7c1fd9f9
+f	java:S106*"+Replace this use of System.out by a logger.(Ê˜¢ØJ$0477ebd7-931b-48f4-bd35-4e5920f1ba37

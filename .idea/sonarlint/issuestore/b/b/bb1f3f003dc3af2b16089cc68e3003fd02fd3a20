@@ -1,0 +1,5 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÐª¤J$805309a5-992b-485a-8c91-9839bc1e8601
+£
+java:S4087:"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ÄËªŸÿÿÿÿÿJ$ab3fedbc-c12c-494d-8867-c9da18e28380
+k	java:S106<"+Replace this use of System.out by a logger.(ý™øøÿÿÿÿJ$ec638c71-b405-4fc0-9d97-105ee1b66796
