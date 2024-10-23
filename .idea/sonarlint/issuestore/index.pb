@@ -425,14 +425,10 @@ e
 5OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/StudyGroup.java,b\5\b5a5327f0877f12369e625931501f4fd717e3bc2
 n
 >OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/service/StudyGroupService.java,5\1\51cfcaad2b6c0abd24a90d4d17d73bc8b0944664
-_
-/OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/controller.java,2\b\2b4c4b3f5d09faed66518b0226f541481f01c17c
 t
 DOOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/controller/StudyGroupController.java,d\5\d58a6728eb3e33bc41826ce941aeab328e28d185
 h
 8OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/view/StudyGroupView.java,6\b\6bd0512670de7c9354f634410d453badbd433c95
-Y
-)OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/Main.java,5\6\5669766b3054027a441c35613786596319affc32
 ^
 .OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/main/Main.java,d\d\ddf9c98e715a49c6ce45c875f252ff96c8b3313c
 b
@@ -443,3 +439,7 @@ _
 /OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/Type.java,9\0\90839f6a0ac3bf3fa0055b6981baef32fdc3889c
 _
 /OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/User.java,7\0\707336c6e6859c8624bc5a183ffb144db6ff8331
+�
+hUnit_Testing/Unit_Test_4_TestDouble/unit-tests-4 (Код семинара)/src/seminars/fourth/Main.java,5\c\5ce93a06d5e81aadf4903df5926404c4ba464928
+�
+mUnit_Testing/Unit_Test_4_TestDouble/unit-tests-4 (Код семинара)/Test/seminars/fourth/MainTest.java,e\d\edfdd39f05535ed106624a226ca17e861617776e
