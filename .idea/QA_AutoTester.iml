@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/UNIT_testing/Sem2_test frameworks/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UNIT_testing/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UNIT_testing/Sem2_test frameworks/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Unit-tests_5 (Интеграц и сквозное тестиров)/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Unit-tests_5 (Интеграц и сквозное тестиров)/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -14,5 +16,7 @@
     <orderEntry type="library" name="junit-jupiter-params-5.9.1" level="project" />
     <orderEntry type="library" name="junit-platform-commons-1.9.1" level="project" />
     <orderEntry type="library" name="assertj-core-3.23.1" level="project" />
+    <orderEntry type="library" name="selenium-java-4.11" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>

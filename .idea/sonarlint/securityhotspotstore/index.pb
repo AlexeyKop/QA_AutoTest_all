@@ -439,7 +439,5 @@ _
 /OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/Type.java,9\0\90839f6a0ac3bf3fa0055b6981baef32fdc3889c
 _
 /OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/User.java,7\0\707336c6e6859c8624bc5a183ffb144db6ff8331
-�
-hUnit_Testing/Unit_Test_4_TestDouble/unit-tests-4 (Код семинара)/src/seminars/fourth/Main.java,5\c\5ce93a06d5e81aadf4903df5926404c4ba464928
-�
-mUnit_Testing/Unit_Test_4_TestDouble/unit-tests-4 (Код семинара)/Test/seminars/fourth/MainTest.java,e\d\edfdd39f05535ed106624a226ca17e861617776e
+�
+XUnit-tests_5 (Интеграц и сквозное тестиров)/src/Calculator.java,8\5\8579975454ffe7692cfc9a8a6c033a99a085d65e
