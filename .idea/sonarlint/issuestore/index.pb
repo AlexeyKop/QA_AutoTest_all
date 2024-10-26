@@ -441,3 +441,21 @@ _
 /OOP_QA/Sem5_MVC/Sem5_DZ_MVC/src/model/User.java,7\0\707336c6e6859c8624bc5a183ffb144db6ff8331
 �
 XUnit-tests_5 (Интеграц и сквозное тестиров)/src/Calculator.java,8\5\8579975454ffe7692cfc9a8a6c033a99a085d65e
+�
+rUnit-tests_5 (Интеграц и сквозное тестиров)/src/seminars/five/number/MaxNumberModule.java,d\4\d4a8bd8bc3dfe694724f6385abe5fa3ba9842602
+�
+uUnit-tests_5 (Интеграц и сквозное тестиров)/src/seminars/five/number/RandomNumberModule.java,2\a\2a0078a0d89afdc7a9954a8e5515064ed49c6177
+�
+eUnit-tests_5 (Интеграц и сквозное тестиров)/Test/seminars/five/MainTest.java,c\3\c3b12e12b5c1a940f9ea26d74c5122b5c7355a00
+�
+iUnit-tests_5 (Интеграц и сквозное тестиров)/Test/seminars/five/SeleniumTest.java,e\6\e6e70841199ae5f45dcb2fc8d17dd71e43bbea92
+�
+oUnit-tests_5 (Интеграц и сквозное тестиров)/src/seminars/five/user/UserRepository.java,7\1\71e6516dc8799996fef8f9b8ba884a513d2ce06d
+�
+lUnit-tests_5 (Интеграц и сквозное тестиров)/src/seminars/five/user/UserService.java,1\f\1f581b3c43fb3d8bf384985208b139507e491d02
+�
+nUnit-tests_5 (Интеграц и сквозное тестиров)/src/seminars/five/order/OrderService.java,b\1\b1f521f94c4433018d4404ad7fd4e9ef0564b715
+�
+pUnit-tests_5 (Интеграц и сквозное тестиров)/src/seminars/five/order/PaymentService.java,f\8\f8c60996b7fbb184d0fb6bc6dabb3daf07da7c16
+�
+bUnit-tests_5 (Интеграц и сквозное тестиров)/src/seminars/fourth/Main.java,a\1\a1c4bd1cfd3369c0fcf1845917ea5ab157aa619e

@@ -1,0 +1,29 @@
+
+E	java:S106*"+Replace this use of System.out by a logger.(±Ãõüÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+V	java:S125s"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'seminars.fourth.book.Book'.(»ÍªÖøÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'seminars.fourth.book.BookRepository'.(“è–áúÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'seminars.fourth.book.BookService'.(Íàú¾
+^
+java:S1128"HRemove this unused import 'seminars.fourth.book.InMemoryBookRepository'.(Ğ¥Ç„
+^
+java:S1128"CRemove this unused import 'seminars.fourth.database.DataProcessor'.(¾êª×şÿÿÿÿ
+T
+java:S1128">Remove this unused import 'seminars.fourth.database.Database'.(¬¨°
+\
+java:S1128	"ARemove this unused import 'seminars.fourth.hotel.BookingService'.(ß¦äúÿÿÿÿ
+U
+java:S1128
+"?Remove this unused import 'seminars.fourth.hotel.HotelService'.(¦ÈÖÿ
+^
+java:S1128"CRemove this unused import 'seminars.fourth.message.MessageService'.(Ò§Şöúÿÿÿÿ
+c
+java:S1128"HRemove this unused import 'seminars.fourth.message.NotificationService'.(äé÷ıÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
