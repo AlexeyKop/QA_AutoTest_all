@@ -1,0 +1,9 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ËúÄ±J$c75d1ed9-6dfe-4dd9-97d6-620873544380
+†	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(³¾«àüÿÿÿÿJ$a9790543-d33b-4fc4-8789-f595c39ef39e
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†ÌùÄJ$6ad74ec5-52a1-40e0-96f0-77af55efe0e6
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şò©ãıÿÿÿÿ8«Æ¡Ê¬2
+k	java:S106"+Replace this use of System.out by a logger.(÷‰–¬ûÿÿÿÿJ$23fb9259-1512-47eb-b4cc-3b13a3363722
+f	java:S106"+Replace this use of System.out by a logger.(˜ñÆêJ$66c0c70c-fde6-42b5-bf83-93cb739174a4
+v
+java:S11613":Add the "@Override" annotation above this method signature(ËúÄ±J$c55ada53-7ae5-4757-9085-46d54465b891

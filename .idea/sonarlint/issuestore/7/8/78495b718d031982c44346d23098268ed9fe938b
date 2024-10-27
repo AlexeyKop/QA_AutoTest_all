@@ -1,0 +1,21 @@
+
+‡	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛáùJJ$8ada6607-4e96-4225-a713-a4b1c3073eec
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š»ÙÒ8¾ÎÅÊ¬2
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘J$762dcd1a-ccbf-4683-8f01-62bd2d75ca03
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÐ´–J$b6170cf4-e9ab-4640-80b4-58cfac92d486
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡Ú‹J$1b25cead-183a-49ac-b656-d86515fcd513
+ˆ	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üäœJ$7b65eeae-2938-4079-aa66-51ac3b80d613
+Ž	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ð‹ÝùÿÿÿÿJ$d1316533-3035-4526-80b6-d322feccf63f
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì¨ú¥J$600e97ce-b96a-4fad-ad33-172f453816f6
+¼
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ëíWJ$741cd480-72be-4c8a-887a-f36ff388346b
+½
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èæÓÀJ$2e0ab915-8f0c-4c64-bcac-f81360acbc79
+¼
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò¢ú{J$4003d26a-b26e-4828-bc15-195be3d3263e
+½
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì¨ú¥J$0d14fb91-c46d-4e5e-bb09-b23876f3208d
+¼
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ëíWJ$223ebc3e-0b39-4c73-8bac-34fb1b59d64d

@@ -1,0 +1,25 @@
+
+‡	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬•…mJ$56e4123e-0909-4b5d-b863-f6f5c82400c7
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š»ÙÒ8ÿ²ÅÊ¬2
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘J$266dadfa-6652-4f1f-9b51-a2b9f9f22ae4
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÐ´–J$78a4c822-be2e-497b-9a65-81ba07d40185
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡Ú‹J$5050c00c-6ac7-490b-ac7d-2b30ae3dd055
+Ž	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ð‹ÝùÿÿÿÿJ$4fa4eb2a-25a8-4e35-9b1e-eb58f025c6e2
+ˆ	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üäœJ$32cc862f-c10b-4872-9f1a-c4112d0af6f5
+s
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$d2dbf18f-efdb-4a10-8879-d492ebdfed5e
+s
+java:S1135 "2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$e57cab77-45fa-4972-abad-8c887c9bb790
+s
+java:S1135&"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$5b7e864b-37bc-4730-a471-4bca7cf6cec4
+s
+java:S1135,"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$fccef816-0dc0-4310-a167-a42a0f2fcb42
+s
+java:S11356"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$aad62ec6-3169-44e3-95b2-8890ec3814ad
+s
+java:S1135<"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$b4affdb1-06fa-4e76-b1b0-c8e37e4fc832
+s
+java:S1135B"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$edfe03ce-cf4e-4569-bde6-5812c0c41ffc
+s
+java:S1135H"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿJ$461b035f-ca53-424f-ac17-b90c2e7f464b

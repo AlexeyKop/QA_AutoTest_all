@@ -1,0 +1,27 @@
+
+ˆ	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³»¢©J$03fc041e-fc98-46c6-9f92-1b6eec2f1544
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þò©ãýÿÿÿÿ8ä®ÆÉ¬2
+s
+java:S2589/"7Remove this expression which always evaluates to "true"(À«ÞâJ$4fa19d41-3c22-4031-89fe-a7467e9a4774
+s
+java:S25894"7Remove this expression which always evaluates to "true"(À«ÞâJ$42e4e14b-0352-451e-9350-10c9465e8f6b
+x
+java:S25899"7Remove this expression which always evaluates to "true"(‚½”±úÿÿÿÿJ$4637eb3d-e028-49af-b73b-ad81a174fd37
+|	java:S125"<This block of commented-out lines of code should be removed.(ÏŽäüøÿÿÿÿJ$f9b4a7a9-636e-44c1-a6cd-841a3f74d6ec
+u
+java:S3400*"9Remove this method and declare a constant for this value.(§¼ÉçJ$4be06109-ac23-435d-964b-fec72aed2828
+t
+java:S1172)"8Remove this unused method parameter "filenameOfConnect".(ËÃÛÎJ$6dcf8e54-c741-4b0f-a908-a5c1e2b58429
+o
+java:S1172-".Remove this unused method parameter "planner".(ã¹©ÿÿÿÿÿJ$ab3f7a85-2e86-4be4-80ba-ae2befb9c928
+X
+java:S1116/"Remove this empty statement.(À«ÞâJ$e6d10e2a-74b2-46cc-bae9-db9882265baf
+o
+java:S11722".Remove this unused method parameter "planner".(úŒÝ¦þÿÿÿÿJ$c912213d-47ba-4311-8a46-45459cdf0c18
+X
+java:S11164"Remove this empty statement.(À«ÞâJ$02286ca3-26f1-4487-bc36-438cc7fcf571
+x
+java:S11727"=Remove these unused method parameters "username", "password".(õô´jJ$43f125b1-8ded-4390-a12f-6054b17f8700
+]
+java:S11169"Remove this empty statement.(‚½”±úÿÿÿÿJ$55e2fd64-3694-4cca-9e6e-7a6a38e8847c

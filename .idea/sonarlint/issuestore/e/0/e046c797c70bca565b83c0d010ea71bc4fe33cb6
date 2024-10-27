@@ -1,0 +1,6 @@
+
+’
+java:S1104"VMake clientType a static final constant or non-public and provide accessors if needed.(Ÿß¸ÂJ$182435bc-6014-4ade-9900-2ddb2b8743e9
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢Ê¨©J$c07ca00f-dba3-4f07-b5b0-99899dd144d6
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þò©ãýÿÿÿÿ8¡¶€Ê¬2
+k	java:S106"+Replace this use of System.out by a logger.(Ñî’ñúÿÿÿÿJ$4ad9a59b-9eba-41fe-a6da-11e5ec39a0a8

@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem4_OOP Generics/Sem4_OOP Generics.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem4_OOP Generics/Sem4_OOP Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem5_MVC/Sem5_DZ_MVC/Sem5_DZ_MVC.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem5_MVC/Sem5_DZ_MVC/Sem5_DZ_MVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem5_MVC/Sem5_MVC.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem5_MVC/Sem5_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem6_SOLID/Sem6_SOLID.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem6_SOLID/Sem6_SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_QA/Sem6_SOLID/Sem6_from4_DZ_SOLID/Sem6_from4_DZ_SOLID.iml" filepath="$PROJECT_DIR$/OOP_QA/Sem6_SOLID/Sem6_from4_DZ_SOLID/Sem6_from4_DZ_SOLID.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit_Testing/Unit_Testing.iml" filepath="$PROJECT_DIR$/Unit_Testing/Unit_Testing.iml" />
     </modules>
   </component>
