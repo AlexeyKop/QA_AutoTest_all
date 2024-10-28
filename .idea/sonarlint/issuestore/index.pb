@@ -497,20 +497,6 @@ q
 AOOP_QA/Sem4_OOP Generics/Sem4_DZ_Generics/src/UserComparator.java,8\f\8f66e47eb37a5b220b80effd588f1dcd1c597657
 O
 OOP_QA/Sem6_SOLID/src/Main.java,3\0\300dd82e4d4beba3a60589078f7e0f4612f089da
-Y
-)OOP_QA/Sem6_SOLID/src/RentCarService.java,f\0\f0676059936371ab0bcb9a6b714cc0564bdc82ea
-Y
-)OOP_QA/Sem6_SOLID/src/PrinterService.java,b\1\b11fe99ea4006326ab27284add13768587defb0e
-Y
-)OOP_QA/Sem6_SOLID/src/CarInfoService.java,9\e\9e36480f01fba60e4026ae3da1fd8b191783c195
-^
-.OOP_QA/Sem6_SOLID/src/NotificationService.java,3\f\3fc55408a665379a625a5a16cdb8431388ccc26a
-U
-%OOP_QA/Sem6_SOLID/src/CarService.java,f\7\f7e53236e23c986cc00cfb49c5b0b21e4ac28a79
-\
-,OOP_QA/Sem6_SOLID/src/EmailNotification.java,7\9\79a5edc166fe86ab98d3ea7b8437f7134a01e159
-]
--OOP_QA/Sem6_SOLID/src/MobileNotification.java,a\e\aee9f67cb9a131dbae557958a07688aea28fa5fb
 T
 $OOP_QA/Sem6_SOLID/src/first/Car.java,6\8\68184666af75bd93c920697b2574ad8171c61ed1
 W
@@ -565,7 +551,7 @@ m
 =OOP_QA/Sem6_SOLID/Sem6_from4_DZ_SOLID/src/UserController.java,7\a\7adc02fa8154b9f6362d2e71aec7f566bb71fb51
 g
 7OOP_QA/Sem6_SOLID/Sem6_from4_DZ_SOLID/src/UserView.java,7\6\7651e3200e419ffcf6692ce440ad4957c658de2f
-j
-:OOP_QA/Sem6_SOLID/Sem6_from4_DZ_SOLID/Sem4_DZ_Generics.iml,2\d\2ddc2aecc7df2dadbfe9cc713b5d58626ff5a525
 _
 /OOP_QA/Sem6_SOLID/Sem6_from4_DZ_SOLID/readme.md,4\7\478aab183e3f49ab8a44e71de6d44d33261ca8f6
+L
+OOP_QA/Sem7_Patterns/pom.xml,c\e\ce8b400dc3ec0c88f80a3e9693ac36d8e8aeb8c7

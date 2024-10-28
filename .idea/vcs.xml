@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OOP_QA/Sem7_Patterns/src/main/1_DecoratorFactory" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/QA_UNIT_Test_3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Unit_Test4_TestDouble" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Unit_Test_2_git" vcs="Git" />
